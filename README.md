@@ -1,48 +1,35 @@
 # prueba-repo
 
 hago un cambio
-# Proyecto de Ejemplo
+# Guía Avanzada de Markdown en GitHub
 
-## Introducción
-Este es un ejemplo de un archivo `README.md` para demostrar el uso de la sintaxis de Markdown en GitHub. Aquí aprenderás sobre:
-- Encabezados
-- Estilos de texto
-- Citas
-- Código
-- Colores
-- Vínculos
-- Imágenes
-- Listas
-- Listas de tareas
-- Menciones
-- Referencias
-- Notas al pie
-- Alertas
+¡Bienvenido a la guía definitiva para dominar Markdown en GitHub! Este documento te llevará desde los conceptos básicos hasta técnicas avanzadas para formatear y presentar contenido de manera profesional y efectiva.
+
+## Tabla de Contenidos
+
+1. [Encabezados](#encabezados)
+2. [Estilos de Texto](#estilos-de-texto)
+3. [Citas y Bloques de Texto](#citas-y-bloques-de-texto)
+4. [Código y Sintaxis](#código-y-sintaxis)
+5. [Colores y Diseño](#colores-y-diseño)
+6. [Vínculos y Referencias](#vínculos-y-referencias)
+7. [Imágenes Avanzadas](#imágenes-avanzadas)
+8. [Listas y Sublistas](#listas-y-sublistas)
+9. [Listas de Tareas Dinámicas](#listas-de-tareas-dinámicas)
+10. [Menciones y Notificaciones](#menciones-y-notificaciones)
+11. [Notas y Comentarios](#notas-y-comentarios)
+12. [Estructuras Complejas](#estructuras-complejas)
+13. [Incorporación de Datos](#incorporación-de-datos)
+14. [Ocultamiento y Control de Contenido](#ocultamiento-y-control-de-contenido)
+15. [Personalización y Extensibilidad](#personalización-y-extensibilidad)
 
 ## Encabezados
-# Encabezado de primer nivel
-## Encabezado de segundo nivel
-### Encabezado de tercer nivel
 
-## Estilos de texto
-**Texto en negrita**
+Los encabezados se definen usando uno o más símbolos `#` antes del texto. Puedes anidar encabezados para estructurar tu documento de manera jerárquica.
 
-*Texto en cursiva*
+```markdown
+# Encabezado Principal
 
-~~Texto tachado~~
+## Sección Secundaria
 
-**_Texto en negrita y cursiva_**
-
-Texto con <sub>subíndice</sub> y <sup>superíndice</sup>
-
-## Citas
-> Esto es una cita de ejemplo.
-
-## Código
-Código en línea: `git status`
-
-Bloque de código:
-```bash
-git status
-git add
-git commit
+### Subsección Terciaria
